@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>ContainerLayout.qml</file>
+        <file>layouts/L3L.qml</file>
+        <file>ItemViews/ItemView.qml</file>
+        <file>ItemViews/PieView.qml</file>
+        <file>layouts/Layouts.qml</file>
+        <file>componentCreation.js</file>
+        <file>layouts/L1C.qml</file>
+        <file>layouts/L2E.qml</file>
+    </qresource>
+</RCC>
